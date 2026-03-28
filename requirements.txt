@@ -1,0 +1,9 @@
+streamlit
+streamlit-folium
+fastapi
+uvicorn
+osmnx
+networkx
+folium
+requests
+python-dotenv

@@ -1,0 +1,8 @@
+body {
+    background-image: url("assets/city.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
